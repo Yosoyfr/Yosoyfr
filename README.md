@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on ... Web projects
 - 🤔 I’m looking for help with ... nothing at the moment
 - 💬 Ask me about ... Javascript/Typescript
-- 📫 How to reach me: ... Email -> francisco16lopez@hotmail.com, Instagram -> @yosoyfr and Twitter -> @yosoyfr
+- 📫 How to reach me: ... Email -> francisco16lopez@hotmail.com, Instagram -> [@yosoyfr](https://www.instagram.com/yosoyfr/) and Twitter -> [@yosoyfr](https://twitter.com/yosoyfr) 
 - 😄 Pronouns: ... yosoyfr
 
