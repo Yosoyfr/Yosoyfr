@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://twitter.com/yosoyfr" target="blank"><img src="https://img.shields.io/twitter/follow/yosoyfr?logo=twitter&style=for-the-badge" alt="yosoyfr" /></a> </p>
 
-- 🔭 I’m currently working on [Tytus DB](https://github.com/tytusdb/tytus)
+<!-- - 🔭 I’m currently working on [Tytus DB](https://github.com/tytusdb/tytus) -->
 
 - 🌱 I’m currently learning **Web development, Frameworks, etc.**
 
