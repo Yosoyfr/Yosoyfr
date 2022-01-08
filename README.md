@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Francisco Suarez</h1>
-<h3 align="center">A passionate science and systems engineering student from Guatemala</h3>
-
 <img alt="Yosoyfr" src="assets/yosoyfr.png"> </img>
+<h3 align="center">
+Systems engineering student from Guatemala
+</h3>
 
 <div align=center>
 
@@ -18,18 +19,14 @@
 
 - 👯 I’m looking to collaborate on **Web projects**
 
-- 🤝 I’m looking for help with **nothing at the moment**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Yosoyfr](https://github.com/Yosoyfr)
-
-- 💬 Ask me about **Javascript/Typescript**
 
 - 📫 How to reach me **francisco16lopez@hotmail.com**
 
 ---
 
-<h3 align="center"> 🧐 Connect With Me</h3>
-<br>
+<h2 align="center"> 🧐 Connect With Me</h2>
+
 <p align="center">
 <a href="https://twitter.com/yosoyfr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yosoyfr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/francisco-suarez-1b1744201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="francisco-suarez-1b1744201" height="30" width="40" /></a>
@@ -37,7 +34,6 @@
 <a href="https://instagram.com/yosoyfr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yosoyfr" height="30" width="40" /></a>
 <a href="https://discord.gg/Yosoyfr#8082" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Yosoyfr#8082" height="30" width="40" /></a>
 </p>
-<br>
 
 ---
 <h2 align="center">🔨 Languages and Tools</h2>
